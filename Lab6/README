@@ -1,0 +1,10 @@
+jmlehrer
+1661029
+
+Program Description: A simple modification of the IntegerList ADT in Java so the List works with any data type.
+
+Files being submitted:
+List.java
+Makefile
+ListTest.java
+README

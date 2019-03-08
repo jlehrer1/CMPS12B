@@ -1,0 +1,12 @@
+jmlehrer
+1661029
+
+Program Description: This program implements the Dictionary ADT from Assignment 3 in C. The original implementation details can be found on the description for Assignment 3.
+
+Files being submitted:
+Makefile
+README
+Dictionary.c
+DictionaryTest.c
+Dictionary.h
+DictionaryClient.c

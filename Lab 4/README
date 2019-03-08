@@ -1,0 +1,13 @@
+Julian Lehrer
+1661029
+CMPS12B
+2/10/19
+
+Description: This program reads an input from the command line and parses through it. It then outputs a file
+with the character types and number of characters of each type from each line of the input file. The character
+types that will be detected are alphanumeric, digit, punctuation, and whitespace characters. 
+
+Files being turned in:
+Makefile
+README
+charType.c
